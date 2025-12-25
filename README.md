@@ -1,2 +1,2 @@
 # cursor-rules
-Cursor Project Rules
+Cursor Project Rules My Workplace
